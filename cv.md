@@ -17,3 +17,8 @@
     +JavaScript
     +Git Hub
 ====
+######Education
+    +CodeWars
+    +Rs School
+    +Moscow Institute of Transport
+====
