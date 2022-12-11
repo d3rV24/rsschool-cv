@@ -22,3 +22,13 @@
     +Rs School
     +Moscow Institute of Transport
 ====
+######Experience
+    +Travel
+    +Cooking
+    +Anime
+====
+#####Code
+`print (Hello World)`
+====
+#####English
+**A - 2**
