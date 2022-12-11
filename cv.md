@@ -12,20 +12,20 @@
 *I am 25 years old. I work as a delivery manager at Yandex. I really like the code and want to be .*
 ****
 ##### Skills
-    * HTML
-    * CSS
-    * JavaScript
-    * Git Hub
+* HTML
+* CSS
+* JavaScript
+* Git Hub
 ****
 ###### Education
-    * CodeWars
-    * Rs School
-    * Moscow Institute of Transport
+* CodeWars
+* Rs School
+* Moscow Institute of Transport
 ****
 ###### Experience
-    * Travel
-    * Cooking
-    * Anime
+* Travel
+* Cooking
+* Anime
 ****
 ##### Code
 `print (Hello World)`
