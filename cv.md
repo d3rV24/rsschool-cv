@@ -1,34 +1,34 @@
-#Dmitry Dolgorukov
+# Dmitry Dolgorukov
 ====
-###Front-End Developer
+### Front-End Developer
 ====
-#####Contacts
+##### Contacts
 1.**Iphone** +7 977 425 47 28
 2.**E-Mail** deradera97dima@gmail.com
 3.**Git-Hub** d3rV24
 4.**Discord** dera
 ====
-#####About me
+##### About me
 *I am 25 years old. I work as a delivery manager at Yandex. I really like the code and want to be .*
 ====
-#####Skills
+##### Skills
     +HTML
     +CSS
     +JavaScript
     +Git Hub
 ====
-######Education
+###### Education
     +CodeWars
     +Rs School
     +Moscow Institute of Transport
 ====
-######Experience
+###### Experience
     +Travel
     +Cooking
     +Anime
 ====
-#####Code
+##### Code
 `print (Hello World)`
 ====
-#####English
+##### English
 **A - 2**
